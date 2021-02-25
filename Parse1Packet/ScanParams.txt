@@ -1,0 +1,33 @@
+67
+1
+1020
+510
+1
+0
+0
+0
+15
+
+when doing fast scans : x = 510
+67
+1
+1020
+510
+1
+0
+0
+0
+15
+
+when doing full scans : x = 560
+67
+1
+1
+510
+1020
+1
+0
+0
+9
+
+LU9LhqNX9rWC 

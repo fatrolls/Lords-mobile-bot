@@ -1,0 +1,43 @@
+============================================
+Todo:
+============================================
+- make logs account based ( new column )
+- allow multiple http upload locations based on config
+- add passowrd protection for upload data
+- if it's freeky friday, update kill requirements
+============================================
+Changelog
+============================================
+06/09/2020
+- catch player might list packet
+- when checking players who skipped hunting, get the player names from might list
+- create page to show player might change over interval
+18/08/2020
+- if server is not responding, retry 15 times to see if it can connect
+- if still can't connect to the server, delay sending data until next hunt event
+- use backup server to store data until it's sent to main server
+16/08/2020
+- show player huntes once name is clicked
+15/08/2020
+- show number of hunts made / interval. Helps see how bad of a hunter someone is
+- removed data for "yesterday". Useless
+- added config reader
+14/08/2020
+- adjusted bot time to reset day when ingame DNs reset
+06/08/2020
+- only register monster gifts. Skip handling shop / vip gifts
+01/08/2020
+- add total kills per day row
+- catch open gifts event and upload it to DB
+- shown statistics will be best case from opened gifts ( maybe you got more than max) or popup message. Reduces chance of missed gifts
+31/07/2020
+- added changelog + todo to the end of the index
+- convert days to full date for statistics
+- stats for multi day interval get green color based on number of days passed
+- list is ordered based on : "value of gift"/"cost of gift" => i can get 6.4 lvl 1 gifts from the cost of lvl 2 gift but lvl 2 gift is 4 times better
+  Score for lvl 2 gift is : 4 / 6.4 = 0.625
+- on index page, added quick jump to specific stats
+- make a ranking column for showstats
+- show remaining time of the day
+- count unknown gifts. To be able to guess later the type of them
+- create a howto install doc

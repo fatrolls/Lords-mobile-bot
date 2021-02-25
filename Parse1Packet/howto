@@ -1,0 +1,41 @@
+=======================
+Requirements
+=======================
+- winpcap installed : https://www.winpcap.org/install/
+- x86 version of visual studio 2015 redistribuitable : https://www.microsoft.com/en-us/download/details.aspx?id=48145
+- I used zwap as web server for no specific reason : https://sourceforge.net/projects/zwamp/
+	any webserver with PHP and MySql support will do
+- I used bluestack phone emulator for no specific reason : https://www.bluestacks.com/
+
+=======================
+Building
+=======================
+- open Parse1Packet.sln with Visual Studio 2019
+- make a release, x86 build
+- locate the exe : Release/Parse1Packet.exe
+
+=======================
+Installation
+=======================
+Database:
+	- create database "RUM_LM"
+	- import database "db.sql"
+	- if database has some old data. delete those ( except monstertypes table )
+Web:
+	- put website files under zwamp webserver http folder
+BlueStack:
+	- you will need to install lords mobile on bluestack
+	- you need to use a game account that is part of the guild
+
+=======================
+Usage
+=======================
+- make sure you have webserver + mysql started
+- start Parse1Packet.exe
+- you need to guess which is the network card your PC is using. If you guessed right, you will see the console writing stuff while playing
+	If you did not guess correct network card number, close Parse1Packet.exe, start again and pick another card number
+- start bluestack
+- login to Lords Mobile with game account that is part of the guild
+- as people hunt monsters, your giftcount will increase. In the console of Parse1Packet.exe, you will see text saying gift giver name
+- as long as you have the game and Parse1Packet.exe running, it will report gifts to the webserver
+- you can access : http:\\localhost\index.php to see hunt statistics
