@@ -1,0 +1,81 @@
+helm 1 Deathgazer 16 def
+helm 1 BerserkerTuskHelm 5 iatk 10.5 def
+helm 2 BloodStained_Gargantua 8 catk 8 cdef 8 chp
+helm FrostWing FrostwingHelm 9 ratk 11.5 hp
+helm GrimReaper AncientHat 28 ratk 25 rdef 15 def
+helm JadeWyrm WyrmboneCoronet 32.5 ratk 20 rdef 12.5 hp
+helm Saberfang BeastHelm 25 catk 15 hp 30 iatk
+helm QueenBee BumbleHelm 30 catk 30 ratk 20 hp
+helm MegaMaggot ShadowHelm 10 iatk
+helm BonApeti IndulgentVisage 10 iatk 10 ratk
+#	helm 1 DevilVisage 14.5 def
+#	helm 1 BarbarianHelmet 2.5 iatk 4.5 def
+
+body 1 Odysseus 6.2 def
+body 1 RegalPlatemail 5 hp
+body 2 GrimmyPlate_GrimReaper 8 iatk 9 ihp
+body 2 ArmorOfTheAbyss_Helldrider 5 chp 5 atk 5 idef
+body FrostWing FrostwingArmor 8 ratk 8 iatk
+body SnowBeast WinterParka 25 cdef 15 hp 12.5 iatk 
+body GrimReaper DeathlyMantle 20 ratk 15 def
+body Saberfang PredatorPauldrons 10 catk 20 chp 15 def
+body TerrorThorn TerrorShield 15 hp 35 iatk 25 ihp
+body MechaTrojan Firewall 30 catk 15 hp 20 iatk 
+body QueenBee HardenedCarapace 25 catk 25 ratk 10 def
+body BonApeti HedonicCuiras 25 iatk 25 ratk 30 ihp
+
+feet GrimReaper NetherWalkers 15 ratk 10 rdef 15 def
+feet 1 DurableBoots 4.5 catk 4.5 ratk 10 def
+feet 2 FrostwingBoots 6 catk 
+feet 2 CorruptedBoots 10 iatk 10 idef
+feet 2 WinterStompers 7 catk 25 rdef 13 def
+feet HellDrider LegsOfTheDeceiver 5 ratk 15 rdef 12 atk
+feet Saberfang UntamedBoots 20 catk 15 cdef 15 hp
+feet Gargantua GargantuanBelt 37.5 catk 27.5 chp 15 def
+feet Blackwing DragonsTalons 30 ratk 15 hp 20 iatk
+feet 2 QueenHoneycomb 12 catk 12 ratk 5rdef
+feet TidalTitan StormTasset 30 iatk 30 catk 20 def 10 hp
+
+mhand 1 FieryTomahawk 10 catk 3.5 ratk 6.5 iatk
+mhand 1 FalconGale 10 catk 5 ratk
+mhand 2 Dragon_sBite 10 iatk 10 hp
+mhand 1 VenomStinger 10 iatk 5 ratk
+mhand 2 Harbringer 8 ratk 10 def
+mhand 1 WrathStar 8 catk 4 ratk
+mhand Saberfang RipperClaw 20 catk 20 cdef
+mhand JadeWyrm NectarOrb 25 ratk 17.5 rhp 25 catk 10 cdef 10 rhp
+mhand TerrorThorn TerrorLash 27.5 iatk 10 idef 
+mhand Gargantua HornCudgel 30 catk 15 cdef
+mhand MechaTrojan MaliciousSaw 25 iatk 15 idef 
+mhand FrostWing FrostwingGreatsword 20 catk 12.5 ratk 20 iatk
+mhand HellDrider Skullcrusher 15 ratk 20 ratk 20 catk 25 idef
+mhand QueenBee BumbleHelm 25 catk 25 ratk 10 cdef 10 rhp
+mhand TidalTitan KrakensAnchor 25 iatk 25 catk 13 idef 13 chp
+mhand BonApeti DecadentSword 25 iatk 25 ratk 10 rdef 10 ihp
+
+ohand 1 CrusadersShield 6.5 ratk 4.5 iatk
+ohand 2 FrostwingShield 12.5 def 8.5 hp
+ohand 2 WyrmLantern 10 ratk 5 cdef 9 rhp
+ohand 2 TerrorBlade 9 iatk 12 idef
+ohand 1 LunarScimitar 9 ratk 11.5 hp
+ohand 1 NoahsCube 5 catk 6 ratk 
+ohand Blackwing DragonsFist 22 catk 20 hp
+ohand MechaTrojan ViralSwitchblade 15 iatk 15 ratk
+ohand MegaMaggot OrbOfPestilance 11 catk 
+ohand SnowBeast WinterMits 10 ratk 25 def 25 hp 32.5 idef 
+ohand GrimReaper EternalCodex 20 catk 35 ratk 20 chp
+ohand TidalTitan CallOfTheDeep 15 iatk 15 catk 10 ihp 10 chp
+
+trinket 1 LostIslandsRelic 6 ratk 2.5 hp 6 iatk
+trinket 2 IvoryChoker 8 catk
+trinket MechaTrojan SecretTotem 7 iatk 15 ihp 7 def
+trinket TerrorThorn TerrorVial 16 iatk 5 ihp 8 def 
+trinket Gargantua FearDrum 16 catk 5.5 chp
+trinket FrostWing FrostwingsBreath 8 iatk 8 catk
+trinket JadeWyrm WyrmSeal 16 ratk 8 hp
+trinket HellDrider BurningScroll 9 atk 9 hp
+trinket Blackwing DragonsIris 10 catk 10 ratk 10 hp
+trinket MegaMaggot BlightRing 14 ratk 15 def 15 hp
+trinket 2 AquaAnemone 8 iatk 8 catk
+trinket BonApeti AmbrosialCup 25 iatk 25 ratk 15 ihp 15 rhp
+#		trinket 1 SentinelsCirclet 4 catk

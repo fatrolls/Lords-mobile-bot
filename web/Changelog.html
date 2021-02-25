@@ -1,0 +1,207 @@
+05.Apr.2017<br>
+- show might burned for kingdom<br>
+- merge multiple tables into 1 for namechange tracking<br>
+- namechange tracking will track previous versions also,not just future ones<br>
+- players list will show number of resource nodes getting mined<br>
+- players mining resource will not get considered innactive<br>
+<br>
+04.Apr.2017<br>
+- generic approach for page caching<br>
+- added kingdom statistics page<br>
+- disconnect DB connection on page finish<br>
+- added tidal titan set. Generated new item sets advised<br>
+<br>
+30.March.2017<br>
+- some steps in supporting multi kingdoms<br>
+- clicking on a player in namechange menu will try to track down all he's other names from the past<br>
+- guild summary player clicks will show player history<br>
+<br>
+27.March.2017<br>
+- fixed kills, might ... not getting inherited on quick updates<br>
+- added search option for minerals just to test if gem loads will be working in the future<br>
+- added monster types in numerical format until i figure out real types<br>
+- scanner will initiate minimap and hive generation once a full scan is performed<br>
+- fixed guild full name not getting imported<br>
+- fixed namechanges not saving old name<br>
+<br>
+24.March.2017<br>
+- remade most storage tables to be able to properly store guild short and long format<br>
+- added player status flags and title importing<br>
+- removed kingdom data. Will store it DB wise<br>
+- added player and guild search<br>
+<br>
+23.March.2017<br>
+- import monster and resource objects<br>
+<br>
+22.March.2017<br>
+- parse monster and resource objects<br>
+<br>
+17.March.2017<br>
+- trying to improve import speed. Right now it lags behind scan speed<br>
+<br>
+16.March.2017<br>
+- fixed some deadlock of the new parser when there was a server client desync<br>
+- fixed player history showing players with similar names<br>
+- fixed player not getting updated due to badly interpreted GUID<br>
+- fixed mini hives not showing guildless players<br>
+- increased scanner step size. Now it can scan 1 realm in 20 minutes aprox<br>
+<br>
+15.March.2017<br>
+- a lot of work on the new scanner / parser / importer<br>
+<br>
+14.March.2017<br>
+- fixed player history ordering by date<br>
+- fixed guild filtering not working<br>
+<br>
+10.March.2017<br>
+- default players list will only show coords + name + guild. Reduced page size from 7.5Mb to 3.3MB<br>
+- players history view will display advanced info about the player<br>
+- guild player list will display all player info<br>
+- fixed guild names getting the short format when doing quick updates<br>
+- added quickload version for players list. Still seems long to me<br>
+<br>
+09.March.2017<br>
+- completly replaced old scanner<br>
+- added quick scan mode to update names and coordinates<br>
+- import castle updates that are somehow not visible to the OCR scanner<br>
+- archive should not double insert players without changed data(parralel scan )<br>
+- Added namechange track to buttons<br>
+- removed innactive and prisoners column from player list. Page size is still huge. Will add JSON..<br>
+- show player name without guild<br>
+- fixed player renames not showing guild info<br>
+<br>
+08.March.2017<br>
+- new parser can parse coords also<br>
+- import new parser output<br>
+- update scanner to handle new graphics added to game<br>
+<br>
+07.March.2017<br>
+- added new parser to extract castle level/store<br>
+- players list will show castle level<br>
+- new minimap type : avg castle level<br>
+<br>
+28.feb.2017<br>
+- more fightsims<br>
+- updated server 67<br>
+- fixed when first digit is bitten off from KillCount<br>
+<br>
+28.feb.2017<br>
+- started working on combat simulator. For now it's plain static data.<br>
+- remade welcome page. People are still clicking only 2 links<br>
+- updated only half of the map. Everything crashed tonight. EVERYTHING !<br>
+<br>
+27.feb.2017<br>
+- might / kills columns were swapped<br>
+- show values in short format<br>
+- show time as delta<br>
+- wipe old players that were no longer found to be scanned<br>
+- filtering player name ( click in players list) will show guild hopping also<br>
+- use base name to not loose player track on guild hop when importing new scan<br>
+- corrected kills, might minimap header skew to the left<br>
+- fixed minimaps overlapping cell data<br>
+- added some pic for banner<br>
+- tried to make buttons more visible<br>
+<br>
+24.feb.2017<br>
+- import if available : SuccessfulAttacks,FailedAttacks,SuccessfulDefenses,FailedDefenses,TroopsKilled,TroopsLost,TroopsHealed,TroopsWounded,TurfsDestroyed<br>
+- fixed bug when cross server namechange was detected<br>
+- throw some styles over index,players, hives pages. I sense regrets<br>
+<br>
+23.feb.2017<br>
+- wait for player info to load instead waiting fixed<br>
+- do not double jump on restore session<br>
+- remade profile OCR fonts. The random in random is too random<br>
+- increased string buffer size to avoid crash on random junk found by OCR<br>
+<br>
+22.feb.2017<br>
+- fixed import not importing if player has prisoners<br>
+- fixed import not overwriting players from previous revision<br>
+- import will delete older than 3 days imported data near new data<br>
+- fixed players innactivity and prisoners column being swapped<br>
+- refreshed player DB<br>
+- more OCR training<br>
+- scan/export/import VIP level<br>
+- scan/export/import Guild rank<br>
+- scan/export/import Player rank<br>
+- added admin stats page<br>
+- cleaned up index from most unused buttons<br>
+- hide tracking will show remaining antiscout time<br>
+- increased content frame size<br>
+- hives show max / avg player level ( if available )
+<br>
+21.feb.2017<br>
+- fail fast when scanning. On first bad coord try to resync<br>
+- define scan params in config file<br>
+- reverse scan order for multi instance scanning<br>
+- drag screen to right before jump. Game seems to randomly block if jumping form end of the screen<br>
+- wait for screen load for up to 10 seconds before dragging screen<br>
+- remove spaces from might and kills to avoid exporting small numbers<br>
+- save original screenshot on unknown OCR font<br>
+- export UTC time instead ms<br>
+- auto close daily login popup<br>
+- pause execution until EMU gains focus again<br>
+- wait for screen drag to finish<br>
+- only restore previous scan session if we did not force a new scan order manually<br>
+- player count minimap<br>
+- generate minimaps other than server #67<br>
+- generate hive locations<br>
+- show hive locations<br>
+- cache minimaps<br>
+- added donation button for the lolz<br>
+- added antiscout feature<br>
+<br>
+20.feb.2017<br>
+- save the original screenshot on new OCR fonts found. Later manually process them<br>
+- properly log last updated stamp for objects<br>
+- convert HMTl chars back to ascii when saving to DB<br>
+- only resume scan if it would jump us forward and not backwards in scan position<br>
+- alt+tab should pause the scan<br>
+- archive old on import<br>
+- skip old on import<br>
+- simple players list<br>
+- show last updated for players<br>
+- filter players list by kingdom<br>
+- might minimap<br>
+- kills minimap<br>
+- changelog link<br>
+- fetch player archives<br>
+- fetch player guildmates<br>
+- scanner will extract if player has prisoners<br>
+- track site access<br>
+- scan, export, import, show "hasprisoner" for players
+<br>
+17.feb.2017<br>
+- fail tries to improve player search on kingdom screen<br>
+- OCR should export new fonts to apropriate fontset<br>
+- added 9k new players to train OCR<br>
+- restore scan from previous session( in case of crash)<br>
+- simulate castele popup parse loaded from local file<br>
+- import parsed info into DB<br>
+<br>
+16.feb.2017<br>
+- Used the new players to further train the OCR<br>
+- created todo list<br>
+- added 11k new players to train OCR<br>
+- fixed bug for duplicating OCR fonts on each run when updating fontset<br>
+- added OCR statistics to pinpoint compare bottlenecks<br>
+<br>
+15.feb.2017<br>
+- Used the new players to further train the OCR<br>
+- scanned 1 whole map. 4 hours without finding a blocking situation<br>
+- added 11k new players to train OCR<br>
+- setup laptop for secondary scanner<br>
+<br>
+14.feb.2017<br>
+- converted autoit to c++ script<br>
+- implemented all required side functions to make 1 row scan of the game<br>
+- scanned 1500 players<br>
+<br>
+13.feb.2017<br>
+- created changelog<br>
+- install Emu on secondary laptop for continues run<br>
+- updated script to support higher resolution<br>
+- fixed water not getting detected<br>
+- grab more training screenshot for OCR using bigger res<br>
+- more OCR training
+- more work on the site<br>
+

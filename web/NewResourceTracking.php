@@ -1,0 +1,1 @@
+Put in your location. You should get a phone buzz when a new resource node spawn near your location

@@ -1,0 +1,783 @@
+vs 2 10m 1 mask 2 drum 2
+vs 2 50ore 1 60mheal 2 chest2 1
+vs 2 150food 2 30m 1
+vs 2 10wood 2 mask 8
+vs 2 30mr 2 mask 1
+vs 2 3gold 2 60mwall 2 gem 8
+vs 2 10ore 2 3gold 2 200gems 2
+vs 2 50stone 1 10wood 1 mask 8
+vs 2 10wood 2 10ore 2
+vs 2 3gold 2 3h 2 mask 4
+vs 2 mask 8
+vs 2 15mr 2 rrelocator 1
+vs 2 10ore 1
+vs 2 30m 2
+vs 2 100star 2
+vs 2 4hshield 1 mask 8
+vs 2 10m 1 3hr 1
+vs 2 30mr 1 mask 4
+vs 2 10ore 2 10mr 2
+vs 2 30food 2 10mr 2
+vs 2 10wood 1 chest2 2
+vs 2 15gold 1 mask 4
+vs 2 150stone 1 300gems 1 gem 8
+vs 2 mask 1 gem 2
+vs 2 30food 2 mask 4
+vs 2 10stone 1 drum 2
+vs 2 30food 1 50stone 1
+vs 2 10stone 2 50gold 1 3hr 1
+vs 2 60mheal 2 chest2 3
+vs 2 10stone 1 10wood 2
+vs 2 100star 2 gem 1 drum 4
+vs 2 50wood 1 30mr 1 drum 4
+vs 2 50wood 2 60mheal 1
+vs 2 10ore 2 drum 8
+vs 2 150wood 2 10m 1 200gems 2
+vs 2 chest2 2
+vs 2 30food 3 mask 2
+vs 2 30food 2 15gold 2
+vs 2 10wood 1 60mr 2
+vs 2 30food 1 60mheal 1
+vs 2 10wood 2 60mwall 1
+vs 2 15gold 1 drum 8
+vs 2 10wood 1
+vs 2 30food 1 10m 1 gem 2
+vs 2 60mr 2 100gems 1 chest2 2
+vs 2 10ore 2
+vs 2 15gold 3
+vs 2 15gold 2 mask 4
+vs 2 50stone 2
+vs 2 mask 2 chest2 2
+vs 2 3gold 2
+vs 2 10stone 1 50wood 2 gem 4
+vs 2 50stone 2 chest2 2
+vs 2 30mr 2 60mr 1
+vs 2 50wood 1 10mr 1
+vs 2 30food 1 50stone 2
+vs 2 30food 1 10wood 1
+vs 2 50ore 1 60m 1
+vs 2 10stone 2 50stone 2
+vs 2 15gold 2 drum 4
+vs 2 10ore 1 50ore 1 rrelocator 2
+vs 2 10stone 2
+vs 2 15mr 2
+vs 2 10stone 2 10mr 1
+vs 2 500food 1
+vs 2 10ore 2
+vs 2 10stone 1 10ore 1
+vs 2 30food 1 10stone 2 10ore 1
+vs 2 30food 1 30m 2 60mwall 2
+vs 2 10ore 2 3gold 2
+vs 2 drum 1 drum 8
+vs 2 10wood 2 3h 2 15mr 2
+vs 2 10wood 1 drum 8
+vs 2 3gold 2 15gold 2
+vs 2 3gold 2 doll 1 drum 1
+vs 2 50stone 2 150wood 1 drum 1
+vs 2 3gold 1
+vs 2 30food 2 10mr 1
+vs 2 10wood 4 mask 8
+vs 2 10stone 1 60mheal 1
+vs 2 drum 8
+vs 2 150food 2 chest2 1
+vs 2 gem 1
+vs 2 30food 2 50stone 2 10m 2
+vs 2 15gold 1 60mheal 2
+vs 2 150wood 1 mask 1
+vs 2 3gold 2 3h 1
+vs 2 10wood 2 15m 2 gem 1
+vs 2 10wood 1 60mr 1
+vs 2 50stone 2 3gold 2 chest2 1
+vs 2 4hshield 1
+vs 2 3gold 2
+vs 2 15mr 1
+vs 2 150food 1 15m 1
+vs 2 gem 1
+vs 2 30food 2 150stone 2
+vs 2 50gold 1 rrelocator 2
+vs 2 10stone 2 10wood 2 gem 1
+vs 2 15gold 1 10mr 2 30mr 2
+vs 2 30food 2 50wood 2
+vs 2 150food 1
+vs 2 150stone 1 15gold 1
+vs 2 500food 2 10ore 2 50ore 1
+vs 2 mask 4
+vs 2 10stone 1 60m 2
+vs 2 10m 2 gem 2
+vs 2 10m 1
+vs 2 150food 1 3gold 2 60mr 2
+vs 2 gem 1
+vs 2 10ore 1 60mheal 1
+mc 2 10stone 2
+mc 2 10ore 1
+mc 2 10stone 1 50stone 2 chest2 1
+mc 2 10ore 1 3gold 1
+mc 2 10stone 2 10wood 1
+mc 2 15mr 4
+mc 2 50ore 1 15gold 2 gun 3
+mc 2 50ore 1 shoe 12
+mc 2 30food 2 10ore 1
+mc 2 10wood 1 50ore 1
+mc 2 10wood 2
+mc 2 10ore 2
+mc 2 50stone 1 3gold 2 60mr 1
+mc 2 3gold 2 shoe 2
+mc 2 3gold 2 15m 1
+mc 2 3gold 2 30mr 2
+mc 2 10wood 3 10m 2
+mc 2 3gold 2 
+mc 2 50wood 2 chest2 2 shoe 12
+mc 2 150food 1 15m 1 chest2 1
+mc 2 gun 2 shoe 2
+mc 2 50wood 1
+mc 2 50wood 2 10ore 1
+mc 2 150ore 1 3gold 1 chest2 2
+mc 2 10stone 1 10wood 1
+bo 3 15gold 1 plume 4
+bo 3 10ore 2
+bo 3 30food 1 10stone 1
+bo 3 10stone 2 50stone 2
+bo 3 50stone 2 chest3 1
+bo 3 150food 2 10ore 1 plume 1
+bo 3 60mheal 1 bracer 1
+bo 3 10ore 2 50ore 1
+bo 3 60mwall 1 bracer 4 bracer 16
+bo 1 10wood 2 chest1 1
+bo 1 3gold 1 15mwall 1 plume 1
+bo 2 150food 2 10ore 1
+bo 2 30food 1 15mr 1 200gems 1
+bo 2 150wood 1 bracer 8
+bo 2 15gold 1 60mr 1 chest2 1
+bo 2 10ore 1 silk 8
+bo 2 60mwall 1 chest2 2
+bo 2 30food 2 chest2 2
+bo 2 10stone 2 30mr 2
+bo 2 chest2 2 bracer 4
+bo 1 chest1 2
+bo 1 15mr 1 bracer 1
+bo 2 50gold 1
+bo 2 10wood 2 3gold 2 bracer 8
+bo 2 10wood 1 15m 1 3hr 1
+bo 2 10wood 1 3gold 2
+bo 2 bracer 2
+bo 2 15m 2 plume 1
+bo 2 chest2 1 bracer 2
+bo 2 10wood 1 15mr 1 60mwall 2
+fw 3 10ore 1 15m 1
+fw 3 horn 1 claw 4
+fw 3 10stone 3
+fw 3 15m 1 15mr 2
+fw 3 150food 4 60mwall 2
+fw 3 50stone 1 3hr 2 horn 4
+fw 3 3gold 4
+fw 3 rrelocator 1
+fw 3 15gold 2 horn 1
+fw 2 30food 2 15gold 1
+fw 2 3gold 2
+fw 2 10ore 1 scale 1
+fw 2 scale 2
+bo 2 10stone 1 10m 1
+bo 2 50wood 2
+bo 2 chest2 4
+bo 2 10wood 1
+bo 2 50ore 2
+bo 2 10wood 1
+bo 2 30food 1 plume 1
+bo 2 10stone 2
+bo 2 15mr 2 bracer 1
+bo 2 10wood 3
+fw 2 claw 2
+fw 2 3hr 1 heart 1
+fw 2 50ore 1 chest2 1 claw 1
+fw 2 10stone 1 15m 2 60mheal 1
+fw 2 10ore 1 60mwall 1
+fw 2 10wood 2 60m 1
+fw 2 30food 2
+fw 2 10wood 2 horn 1
+fw 2 50stone 1 10mr 1
+fw 2 50wood 1 10ore 2
+fw 2 10ore 2 horn 4
+gg 2 150stone 1 10wood 1
+gg 2 10stone 1 3gold 1
+vs 1 50stone 1 30m 2
+vs 1 15mheal 2
+vs 1 mask 2 chest1 2
+vs 1 drum 2
+vs 1 10wood 2 10ore 2 15mwall 1
+vs 1 10stone 2 50gold 1 drum 1
+vs 1 30food 1 10ore 2 15mwall 1
+vs 1 10ore 1 drum 1
+vs 1 15m 1 30mr 1
+vs 1 10mr 1
+vs 2 30food 2 3gold 2
+vs 2 150food 1 30mr 2
+vs 2 10mr 2
+vs 1 10ore 1 gem 1
+vs 1 10stone 2 10wood 1 30mr 1
+vs 1 15mheal 1
+vs 1 mask 2
+vs 1 3gold 1 gem 2
+vs 1 gem 1
+vs 1 30food 2 10m 2 mask 1
+vs 1 chest1 1
+vs 1 150food 1 10stone 1 chest1 1
+vs 1 10wood 3
+vs 1 50wood 1 30m 1 15mr 1
+vs 1 3gold 2 drum 2
+vs 1 50ore 1 3gold 1
+vs 1 10stone 1 15mr 1
+vs 2 10ore 1
+vs 2 10ore 2 50ore 1
+vs 2 15m 1 60mheal 1
+vs 2 10ore 1 3gold 2 mask 2
+vs 2 30food 2 60mr 2 mask 2
+vs 1 50ore 2 30m 1
+vs 1 3gold 1 60mr 2 chest1 1
+vs 1 10wood 2 drum 2
+fw 3 10wood 1 3gold 1 scale 32
+fw 3 3gold 1 horn 1
+fw 3 10stone 1 30mr 2
+fw 3 15gold 1 horn 4
+fw 3 150food 2 50ore 2 100star 2
+fw 3 chest3 2 horn 1
+fw 3 10wood 2 3gold 1 scale 4
+fw 3 claw 2 claw 8
+vs 1 10wood 2
+vs 1 10stone 1 50wood 1 15mheal 1
+vs 1 30food 2 15mwall 2 gem 2
+vs 1 30m 2 drum 1
+vs 1 3gold 2
+vs 1 150food 2 15gold 1
+vs 1 50stone 1 10wood 1
+vs 1 drum 2
+vs 1 drum 2 gem 2
+vs 1 30food 1
+vs 1 10wood 1
+vs 1 mask 1 drum 2 gem 2
+vs 1 30food 1 10wood 1
+vs 1 30food 1 chest1 2
+vs 1 10stone 3 3gold 1
+vs 1 10m 1 mask 1
+vs 1 50ore 1 15mheal 2
+vs 1 15mheal 1 gem 1 chest1 1
+vs 1 3gold 2 15mwall 2 drum 1
+vs 1 10wood 1 drum 1
+vs 1 10ore 2 3gold 1 chest1 1
+vs 1 50ore 1 3gold 2 chest1 2
+vs 1 drum 2
+vs 1 50ore 2
+vs 1 15gold 1 gem 1
+vs 1 10ore 1
+vs 1 30mr 1 drum 4
+vs 1 10stone 2 15mheal 3
+vs 1 10wood 1 10ore 3
+vs 1 10mr 1
+vs 1 3gold 1 10mr 2
+vs 1 10wood 1 gem 1
+vs 1 50ore 1 3gold 2
+vs 1 50ore 2 gem 2
+vs 1 100star 1
+vs 1 15m 2 drum 1
+vs 1 10mr 2 15mheal 2 drum 1
+vs 1 60mheal 1 chest1 2
+vs 1 15m 1 chest1 2
+vs 1 drum 2 chest1 1
+vs 1 30food 2 10ore 2
+vs 1 3gold 1
+vs 1 10ore 1 drum 2
+vs 1 10wood 4 chest1 2
+vs 1 3gold 1
+vs 1 10wood 2 3gold 1 15m 1
+vs 1 10ore 1 3gold 2
+vs 1 10wood 1
+vs 1 10ore 1 chest1 2
+vs 1 gem 2
+vs 1 10wood 1
+vs 1 10wood 1 chest1 2
+vs 1 10wood 2 60mheal 1
+vs 1 10mr 2 drum 2
+vs 1 30food 2 50stone 1 30mr 2
+vs 1 30food 1 150food 1 3gold 2
+vs 1 30food 1 60mr 2 15mheal 1
+vs 1 15m 2 chest1 2
+vs 1 10wood 1 3gold 2
+vs 1 15mheal 2
+vs 1 10wood 2 chest1 1
+vs 1 50ore 1 mask 2
+vs 1 60mr 2 mask 1
+vs 1 30food 3
+vs 1 30m 1
+vs 1 150food 1 drum 2 chest1 2
+vs 1 10mr 2 drum 2
+vs 1 150food 1 10wood 1
+vs 1 10stone 1 10wood 1
+vs 1 30food 1 drum 1
+vs 1 150food 1 chest1 1
+vs 1 chest1 1
+vs 1 10stone 2 50wood 1 mask 2
+vs 1 15mr 1
+vs 1 50stone 1 3gold 1 30mr 1
+vs 1 10mr 2
+vs 1 10wood 3
+vs 1 10m 1 chest1 2
+vs 1 30m 1 10mr 1 chest1 1
+vs 1 drum 1
+vs 1 50ore 2
+vs 1 10wood 2 gem 2
+vs 1 mask 2 chest1 2
+vs 1 mask 1 drum 1 chest1 1
+vs 1 gem 2 chest1 1
+vs 1 50wood 1 mask 1
+vs 1 50ore 2
+vs 1 10ore 1
+vs 1 30food 2 150food 1 10stone 1
+vs 1 10ore 4
+vs 1 10wood 2 10m 2 60m 2
+vs 1 30food 3
+vs 1 10stone 2 50ore 1 drum 1
+vs 1 30mr 2
+vs 1 10mr 2 15mwall 1
+vs 1 50wood 2 15mr 2 mask 1
+vs 1 15gold 2
+vs 1 10wood 1 gem 1
+vs 1 30food 2 10wood 2
+vs 1 10mr 1 chest1 1
+vs 1 10stone 2
+vs 1 10stone 2 gem 2
+vs 1 10wood 1 3gold 2
+vs 1 10ore 1 50ore 1 10m 2
+vs 1 3gold 2 15mwall 1 60mheal 1
+vs 1 4hshield 2 drum 2
+vs 1 30food 1 10ore 1
+vs 1 drum 3
+vs 1 15mr 2 30mr 2
+vs 1 10stone 1
+vs 2 10ore 1 mask 4
+vs 2 3gold 2
+vs 2 60mwall 1 mask 2
+vs 2 150stone 2
+vs 2 gem 1
+vs 1 3gold 1 mask 1
+vs 2 30food 1 10stone 2
+vs 1 15m 1 drum 1
+vs 1 10ore 2 10mr 1
+vs 1 10ore 2 mask 1
+vs 1 3gold 1 10mr 1 15mheal 1
+vs 1 10ore 3 50ore 1
+vs 1 10stone 1
+vs 1 4hshield 1 mask 1
+vs 1 30food 2 50ore 1
+vs 1 3gold 1 15mwall 2
+vs 1 3gold 1 30mr 1
+vs 1 mask 1 gem 1
+vs 1 10wood 1 30m 1
+vs 1 30food 2 15mwall 1
+vs 1 150food 2 50stone 1 3gold 1
+vs 1 10ore 2
+vs 2 mask 2
+vs 2 gem 1
+vs 2 10stone 1
+vs 2 15m 2 gem 1
+vs 2 3gold 1
+vs 1 3gold 2 drum 2
+vs 1 10ore 1
+vs 2 10wood 2 mask 2 chest2 2
+vs 2 150stone 1 3gold 2 100star 1
+vs 2 gem 8
+vs 2 30food 1
+vs 2 30food 2 60mwall 2
+vs 2 15mr 1 gem 1
+vs 2 10stone 2 rrelocator 2 300gems 1
+vs 2 150wood 1 3hr 2
+vs 2 30mr 1
+vs 1 10wood 1 50ore 1
+vs 1 30food 1 10ore 2
+vs 2 150food 1 150ore 2
+vs 2 10wood 2 mask 2
+vs 2 3gold 2
+vs 2 30m 2
+vs 2 60m 1 gem 1
+vs 2 10wood 3
+vs 2 gem 2
+vs 2 30food 2 10wood 1
+vs 3 10stone 1 50ore 2 100star 2
+vs 3 150food 1 10ore 2
+vs 3 50ore 1 3gold 1
+vs 3 15m 1 60mheal 1
+vs 3 mask 8 chest3 1
+vs 3 10wood 1 mask 8
+vs 3 50stone 1 gem 8
+vs 3 10wood 2 60mr 1 drum 1
+vs 3 150stone 2 chest3 2
+vs 3 15m 1 mask 2
+vs 3 drum 2
+vs 3 gem 4
+vs 3 10stone 1 mask 2 drum 1
+vs 1 150food 2 3gold 1
+vs 1 50wood 2 15gold 1
+vs 1 50stone 2 50ore 1 drum 1
+vs 2 50stone 2
+vs 2 50stone 2 50wood 1
+vs 2 3gold 1
+vs 1 10stone 1 10ore 1
+vs 1 10stone 1 3gold 2 gem 1
+tt 2 150food 1 60m 1
+tt 2 10wood 1 50gold 2 60mheal 2
+tt 2 10wood 2
+tt 2 500food 1 3gold 2 alloy 1
+vs 2 15gold 2 50gold 1
+vs 2 60mwall 1 gem 1
+vs 2 150wood 1 10ore 2
+vs 2 30food 1 4hshield 2
+vs 2 10stone 1 10ore 1
+vs 1 10wood 2 3gold 2
+vs 1 30food 2
+vs 1 10ore 2 gem 2
+vs 1 10wood 1
+vs 1 drum 1
+vs 1 10wood 1 3gold 1
+vs 1 drum 1
+vs 1 10stone 1 chest1 2
+vs 1 10stone 2 3gold 2
+vs 1 10mr 2 mask 1 gem 1
+vs 1 3gold 1 10m 1 mask 1
+tt 1 10ore 1
+tt 1 30m 1
+tt 1 30food 1 50ore 1
+tt 1 breeze 1 alloy 2
+tt 1 150food 1 10ore 2 alloy 2
+tt 1 10stone 2 echo 2
+tt 2 150wood 2 10ore 2
+tt 1 30m 1
+tt 1 150food 2
+tt 2 10stone 1 chest1 3
+tt 1 50stone 1 breeze 1
+tt 1 10stone 1 10m 2
+tt 1 15m 2
+tt 1 breeze 2 alloy 1
+tt 1 15gold 1 60m 1 chest1 2
+tt 1 150food 1 3gold 1 60mr 1
+tt 1 10mr 2 alloy 1
+tt 1 echo 1
+tt 1 30food 1 10wood 1
+no 1 10stone 2 hide 2
+no 1 30food 1 50gems 2
+no 1 50stone 1 ehorn 1
+no 1 chorn 3
+no 1 15gold 2
+te 2 150food 2 seed 1
+no 1 10wood 1 10ore 1
+no 1 15gold 1 chest1 3
+no 1 10ore 1 15gold 1 jewel 1
+no 1 10mr 1 ehorn 2
+no 1 30mr 1 chest1 1 hide 2
+no 1 30food 1 15mr 1
+tt 1 chest1 1
+tt 1 30food 2 30mr 1
+tt 1 150food 2 50stone 1 60mr 2
+tt 1 50stone 1 breeze 2
+tt 1 10stone 1 100star 1
+tt 1 10ore 1
+no 1 30food 1
+no 1 3gold 1 ehorn 2
+no 2 30food 1 hide 1
+no 2 30food 4 15mr 1
+no 2 rrelocator 1
+te 1 jar 2 teeth 1
+te 1 10ore 1
+te 1 10ore 1
+te 1 30food 1 50ore 1
+te 1 50ore 1
+no 1 100gems 2 chest1 1
+no 1 10stone 2 50stone 1
+no 1 10wood 1 30mr 1 hide 2
+no 1 150food 1 50ore 1
+mm 2 10wood 1 3gold 1 tail 1
+mm 2 10ore 2 60m 2 barb 8
+mm 2 10wood 2 10ore 2 3gold 2
+mm 2 10wood 1 barb 8
+mm 2 50ore 2 15gold 2 teeth 8
+mm 1 10m 2 60mheal 2
+mm 1 150food 1 10stone 1 30mr 1
+no 1 30food 1 10stone 1
+no 1 ehorn 2
+no 1 3gold 1
+no 1 30food 1
+no 1 10stone 1 chorn 1
+no 1 15m 1 chorn 2
+mm 3 15mr 2 tail 8
+mm 3 15m 2
+mm 2 50ore 1
+mm 3 10wood 1 60mwall 2
+mm 3 30food 2 150food 2
+mm 3 10stone 1 3gold 2 400gems 1
+mm 3 30food 1 egg 32
+mm 3 10stone 2 60mr 1 8hr 2
+mm 3 15mr 2
+mm 3 15mr 1 60mheal 1
+mm 3 chest3 2
+mm 3 egg 2
+mm 3 500food 2 100star 1 3hwall 1
+mm 3 50ore 1 tail 4
+mm 3 tail 2
+mm 3 10stone 1 3gold 3
+mm 3 60m 1
+mm 3 10ore 1 100star 2 tail 4
+mm 3 150food 1 150ore 1
+mm 3 150ore 1 15mr 1 tail 32
+mm 3 60mr 2 teeth 4
+mm 3 30food 2 1000star 1
+mm 3 150food 1
+mm 3 100star 2 egg 1
+mm 3 15gold 2 teeth 4
+mm 3 50stone 2
+mm 3 10ore 2
+mm 3 50ore 1
+mm 3 60mr 1 chest3 1
+mm 3 400gems 1 teeth 8
+mm 3 150food 1 tail 4
+mm 3 3gold 2 chest3 1 tail 1
+mm 3 egg 4
+mm 3 10ore 1 15mr 1
+mm 3 60mwall 1
+mm 3 10stone 1 3gold 1
+mm 2 30food 1 teeth 1
+mm 2 30food 1 10stone 1 30mr 1
+mm 2 10ore 2 3gold 2
+mm 2 10stone 2 10ore 1
+mm 2 3gold 1
+gr 1 10stone 1 100gems 1 shroud 1
+gr 1 3gold 1 60mr 1
+gr 1 3gold 1 shroud 1
+gr 1 60mwall 1
+gr 1 15mr 1 60mr 1
+gr 1 30food 1 chest1 1 shroud 1
+gr 1 15gold 2 10m 1
+gr 1 10mr 2
+gr 1 150food 1
+gr 1 3gold 1 10m 1 wing 2
+gr 1 150food 1 wing 1
+gr 2 30food 2
+gr 2 50ore 1 30mr 1 shroud 4
+gr 2 100star 1 soul 1
+gr 2 chest2 1 shroud 2
+gr 1 15mwall 1 shroud 2
+gr 1 soul 1
+gr 1 15gold 1 shroud 1
+gr 1 10stone 1 50stone 1
+mm 1 barb 1
+mm 1 10wood 1 10mr 1
+mm 2 50ore 2 chest2 2
+mm 2 200gems 2
+mm 2 30food 2
+mm 2 10ore 2 15gold 2 60mheal 2
+gr 1 50ore 1 3gold 2
+gr 2 shroud 1 soul 1
+gr 1 15m 1 10mr 2
+gr 1 60mwall 2
+gr 1 30mr 1 chest1 2
+gr 1 50gems 1 chest1 1
+bw 2 10stone 2 chest2 1
+bw 2 10ore 1
+qb 2 10ore 1 3gold 2 chrysalis 1
+qb 2 30mr 1 chest2 2
+gr 3 10stone 1
+gr 3 3h 1 15mr 1
+gr 3 shroud 1 soul 4
+gr 3 10ore 1 30mr 1 wing 16
+gr 3 30food 1 150food 1 60mheal 2
+gr 3 300gems 1 wing 1 shroud 2
+gr 3 15mr 2
+gr 3 60mr 1
+gr 3 10ore 2 50gold 2 60mr 1
+gr 3 3gold 1 100star 2
+gr 3 3gold 1 chest3 2 shroud 4
+gr 3 10ore 1
+gr 3 15mr 1 60mr 1
+gr 1 10ore 2 60mr 1
+gr 1 30food 1
+gr 1 30food 1 shroud 2
+gr 1 50stone 1 10wood 1
+gr 1 30food 1 10stone 1
+gr 1 60mheal 1 chest1 2
+gr 1 30food 1 60mr 1
+gr 1 15mwall 2
+gr 1 50ore 1 100star 1
+qb 1 50gems 1 husk 3
+gr 1 30food 1 10ore 2
+gr 1 10stone 1 4hshield 2
+gr 1 50stone 1 60mr 2
+gr 1 150food 1 10m 1
+qb 2 30food 1 10wood 1 chrysalis 2
+qb 2 50wood 2 chrysalis 1
+qb 2 10mr 1 100star 2
+qb 2 15gold 2
+qb 1 30food 2
+qb 1 30food 1 10wood 1 50gems 1
+qb 1 3gold 1 10mr 1 husk 2
+qb 1 10wood 1 15mheal 2 stinger 1
+qb 2 10ore 1
+qb 1 10stone 1 stinger 2
+gr 1 soul 2
+gr 1 30food 1 50ore 1
+gr 1 150food 1 10mr 1
+gr 1 shroud 1 soul 2
+gr 1 150food 1
+gr 1 30food 1 50ore 1
+gr 1 shroud 1
+gr 2 10wood 1 3gold 2
+qb 2 60mheal 1 chrysalis 8
+qb 1 3gold 1 15mr 1 husk 2
+sb 2 30food 2 150food 1
+sb 2 10stone 1 tooth 2
+sb 2 10ore 1 300gems 1
+sb 2 10ore 1 3gold 1 3h 1
+qb 1 10ore 1
+qb 1 30food 2
+qb 1 15gold 2 10m 1
+qb 1 husk 2
+qb 1 10stone 3 60m 2
+qb 1 chest1 2
+sb 1 10m 2 15mheal 1
+gi 1 30food 1 50stone 1 10wood 1
+gi 1 15gold 1 egg 1
+sb 2 10ore 2 3gold 3
+sb 2 10ore 1
+sb 2 hide 1
+sb 2 3gold 1
+sb 2 50wood 1 60mheal 2
+sb 1 10wood 1 10m 2
+sb 1 10stone 1 10wood 1 50wood 1
+qb 1 30m 1 60mheal 1
+qb 1 3gold 1 chrysalis 2
+qb 1 10wood 2 50ore 2
+qb 1 60mr 1 15mwall 1
+qb 1 10wood 2 chest1 1
+qb 1 30food 1 15gold 3
+qb 1 15gold 2
+qb 1 3gold 1 15mwall 1 chrysalis 1
+gi 2 10mr 2 chest2 1
+gi 2 30food 1 10stone 2
+gi 2 30food 1 egg 1 quil 4
+sb 1 150food 2 hide 1
+sb 1 chest1 1 hide 1
+sb 1 30food 1 10stone 1
+sb 1 10wood 1 15mheal 1
+mc 1 spring 5
+mc 1 10stone 2 10mr 1 chest1 2
+mc 1 10stone 3
+mc 1 30food 1 3gold 1
+mc 1 10ore 2
+mc 1 10wood 1 50ore 1
+mc 1 10ore 1 spring 2
+mc 1 10stone 1 10mr 2
+mc 1 shoe 2
+mc 1 30food 1 10ore 1 gun 3
+mc 1 30food 1 3gold 1 10mr 2
+mc 1 chest1 1 gun 3
+mc 1 10ore 1 3gold 1 shoe 2
+mc 1 50ore 1 15mr 1
+mc 1 50ore 1 3gold 1
+mc 1 10mr 1
+mc 1 30food 1
+mc 1 10wood 1
+mc 1 15m 1 gun 2
+mc 1 10ore 1 gun 3
+mc 1 10ore 1
+mc 1 10ore 2
+mc 1 15gold 1 10mr 1
+mc 1 10ore 1 50ore 1 3gold 2
+sb 1 sclaw 1
+sb 1 10m 1 hide 1
+sb 1 30food 1 10ore 1 hide 1
+sb 1 hide 1 sclaw 1
+sb 1 3gold 2
+sb 1 30food 2 tooth 1 sclaw 1
+sb 1 30food 2 3gold 1
+sb 1 3gold 2
+sb 1 hide 2 sclaw 1
+sb 1 10wood 1 10m 1 hide 1
+gi 2 50stone 1 10wood 2
+gi 2 3gold 1
+mc 1 3gold 1 60mr 1 chest1 2
+mc 1 10ore 1 gun 2
+mc 1 15gold 2 4hshield 2
+mc 1 10stone 1 50stone 2
+mc 1 3gold 1 gun 3
+mc 1 30food 1 15m 2 15mr 1
+mc 1 10wood 1 chest1 1
+mc 1 30food 1 10mr 2 gun 3
+mc 1 150food 3 15mr 1
+mc 1 30food 2 10wood 2 50wood 1
+mc 1 chest1 2
+mc 1 50stone 2 30m 1 chest1 1
+mc 1 30food 1 10ore 1
+mc 1 150food 2
+mc 1 3gold 1 60mheal 1
+mc 1 15gold 1 15m 1 gun 2
+mc 1 15mheal 2 chest1 1 spring 3
+mc 1 10stone 1 10m 1
+mc 1 15mwall 2
+mc 1 shoe 2
+mc 1 3gold 1
+mc 1 3gold 1
+mc 1 30food 2 15mwall 1
+mc 1 10stone 2 15mwall 1
+mc 1 10ore 2 chest1 2 gun 2
+mc 1 30food 1 50wood 1
+mc 1 10mr 1 chest1 1
+mc 1 10wood 1
+mc 1 150food 1 chest1 1
+mc 1 15mheal 1 spring 3
+mc 1 10stone 2
+bo 1 30food 1 50gems 1
+bo 1 3gold 2 chest1 1
+bo 1 10mr 2
+bo 1 10ore 2 3gold 3
+bo 1 30food 1 silk 4
+bo 3 30food 1 fi 1
+bo 3 50wood 1 rrelocator 1
+bo 3 30food 1 150food 1 30mr 1
+bo 3 chest3 1 silk 4
+bo 3 60mr 1 60mheal 2
+mc 1 15gold 1 10m 2 gun 3
+mc 1 50ore 1 15mr 1 15mheal 1
+mc 1 3gold 1 60mheal 2
+mc 1 10ore 1 chest1 1 gun 2
+mc 1 chest1 2
+mc 1 30food 2 10stone 1 gun 3
+mc 1 15mr 2
+mc 1 50wood 1 50ore 1
+mc 1 50wood 2 gun 3
+mc 1 3gold 1 50gems 2
+mc 1 15mr 2
+mc 1 15mr 1
+ja 2 15m 1 gut 2
+ja 2 10ore 1 3gold 2
+bo 1 10ore 2 15mheal 1 bracer 2
+bo 1 10ore 1 15gold 2
+bo 1 30food 1 10wood 2 chest1 2
+bo 1 10ore 1 3gold 2
+bo 1 50gems 1 chest1 1
+bo 1 10m 1 silk 2
+bo 1 10ore 1
+bo 1 10wood 2 3gold 2 60mheal 1
+bo 1 chest1 1 silk 1
+bo 1 chest1 1 bracer 2
+bo 1 15gold 1
+bo 1 50stone 1 3gold 1 15mr 1
+bo 3 150food 1 8h 2 15mr 1
+bo 1 15gold 2 10m 1 chest1 1
+bo 1 10stone 2 15m 1
+gg 1 150food 1 10wood 1 10ore 2
+gg 1 bolt 1
+gg 1 30food 2 fang 1 skin 2
+gg 1 10stone 2
+gg 1 3gold 1
+gg 1 50ore 1
+gg 1 10ore 1
+gg 1 fang 1
+gg 1 10wood 2 chest1 2
+gg 1 15mr 1
+gg 1 30food 2 chest1 1
+gg 1 10ore 1

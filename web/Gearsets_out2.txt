@@ -1,0 +1,300 @@
+=====================================================================================================================================================
+Not item army boosters :
+	items : +840%
+	Jewels : +480%
+	Good scouting + using counter army composition : +1600%
+	research per troop type : 135% Atk + 135% def + 135% Hp = +405% 
+	research per army : 135% Atk + 135% def + 135% Hp = +405% 
+	research per army 2: 30% Atk + 30% def + 30% Hp = +90% 
+	talents troop specific : 5 + 7 + 13 + 13 + 10 + 53 + 87 + 87 = +275%
+	baracks : 10% def
+	infirmary : 5% hp
+	manor : 2% atk
+	From buildings : 10% def + 40% hp + 16% atk
+	buffs : 20% atk + 5% atk ( battle fury) + 20% def
+	hero imprisoned : 30% atk
+	Hero composition : 
+		for cavalry : death knight +  child of light + icarus + rose + sage = +380%
+						rose 70% + steambot 130% + barbarian 105% + death knight 100% + child 80% = 485%
+		for ranged : alice + tracker + black crow + rose + goblin = 300%
+						mastercook 105% + ethereal 105% + tracker 80% + petite devil 80% + snow queen 80% = 450%
+		for infantry : grim wolf 105% + big guy 80% + oath keeper 80% + demon slayer 80% + songstress 70% = 415%
+		mixed combo if tank line does not fall : steambot 130% + Barbarian 105% + songstress 70% + Lore weaver 70% + grim wolf 30% ( + 25% ) = 430%
+		mixed combo if cav tank line falls : steambot 130% + Barbarian 105% ( + 25% ) + songstress 70% ( *2 ) + Lore weaver 70% ( *2 ) + grim wolf 105% ( + 25% ) = 670% 
+		mixed combo if cav + inf tank line falls : steambot 130% + Barbarian 105% ( + 25% * 2 ) + songstress 70% ( *3 ) + Lore weaver 70% ( *3 ) + grim wolf 105% ( + 25% * 2 ) = 860%
+	Endgame best case army boost = 4600% ( in theory 1 trop beats 46 enemy troops ... )
+	watchtower : -10% eatk
+	enemy debuffs : -10% atk -10% def -10%hp = -40% * 4600% = 1840% ..... 4600 + 1840 = 6440% army boost when endgame attacks non endgame
+	inf attack  / infantry def stat worth = 5.3498293515358361774744027303684
+	ranged attack/ ranged def stat worth = 14.786885245901639344262295081973
+	cav attack/ cav  def stat worth = 9.1460602364148587029130725218387
+=====================================================================================================================================================
+*Army composition : infantry(defending) + cavalry(attacking)+ ranged(attacking)
+Looking for item combinations to maximize stats : catk ratk ihp idef iatk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BumbleHelm in slot helm from set QueenBee, score 350
+1)item name HedonicCuiras in slot body from set BonApeti, score 325
+2)item name StormTasset in slot feet from set TidalTitan, score 345
+3)item name Skullcrusher in slot mhand from set HellDrider, score 300
+4)item name EternalCodex in slot ohand from set GrimReaper, score 275
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+Item set attribute summary : idef +45%, iatk +650%, ratk +1000%, catk +500%, ihp +262.5%, Total army boost = 2457.5 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BloodStained_Gargantua in slot helm from set 2, score 40
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 80
+2)item name QueenHoneycomb in slot feet from set 2, score 120
+3)item name FieryTomahawk in slot mhand from set 1, score 95
+4)item name LunarScimitar in slot ohand from set 1, score 72.5
+5)item name AquaAnemone in slot trinket from set 2, score 80
+6)item name AquaAnemone in slot trinket from set 2, score 80
+7)item name AquaAnemone in slot trinket from set 2, score 80
+Item set attribute summary : idef +5%, iatk +175%, ratk +145%, catk +295%, ihp +27.5%, Total army boost = 647.5 %
+
+
+=====================================================================================================================================================
+*Army composition : infantry(attacking) + cavalry(defending)+ ranged(attacking)
+Looking for item combinations to maximize stats : chp cdef catk ratk iatk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BumbleHelm in slot helm from set QueenBee, score 350
+1)item name Firewall in slot body from set MechaTrojan, score 287.5
+2)item name StormTasset in slot feet from set TidalTitan, score 345
+3)item name KrakensAnchor in slot mhand from set TidalTitan, score 282.5
+4)item name EternalCodex in slot ohand from set GrimReaper, score 325
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 250
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 250
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 250
+Item set attribute summary : cdef +20%, iatk +750%, ratk +700%, catk +675%, chp +195%, Total army boost = 2340 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BloodStained_Gargantua in slot helm from set 2, score 68
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 87.5
+2)item name QueenHoneycomb in slot feet from set 2, score 120
+3)item name FieryTomahawk in slot mhand from set 1, score 95
+4)item name LunarScimitar in slot ohand from set 1, score 72.5
+5)item name AquaAnemone in slot trinket from set 2, score 80
+6)item name AquaAnemone in slot trinket from set 2, score 80
+7)item name AquaAnemone in slot trinket from set 2, score 80
+Item set attribute summary : cdef +8%, iatk +175%, ratk +145%, catk +295%, chp +60%, Total army boost = 683 %
+
+
+=====================================================================================================================================================
+*Army composition : infantry(attacking) + cavalry(attacking)+ ranged(defending)
+Looking for item combinations to maximize stats : catk rhp rdef ratk iatk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BumbleHelm in slot helm from set QueenBee, score 350
+1)item name Firewall in slot body from set MechaTrojan, score 287.5
+2)item name StormTasset in slot feet from set TidalTitan, score 345
+3)item name NectarOrb in slot mhand from set JadeWyrm, score 317.5
+4)item name EternalCodex in slot ohand from set GrimReaper, score 275
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+Item set attribute summary : rdef +20%, iatk +625%, ratk +825%, catk +675%, rhp +292.5%, Total army boost = 2437.5 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BloodStained_Gargantua in slot helm from set 2, score 40
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 75
+2)item name QueenHoneycomb in slot feet from set 2, score 120
+3)item name FieryTomahawk in slot mhand from set 1, score 95
+4)item name LunarScimitar in slot ohand from set 1, score 72.5
+5)item name AquaAnemone in slot trinket from set 2, score 80
+6)item name AquaAnemone in slot trinket from set 2, score 80
+7)item name AquaAnemone in slot trinket from set 2, score 80
+Item set attribute summary : rdef +0%, iatk +175%, ratk +145%, catk +295%, rhp +27.5%, Total army boost = 642.5 %
+
+
+=====================================================================================================================================================
+*Army composition : infantry + cavalry + ranged
+Looking for item combinations to maximize stats : chp cdef catk ratk ihp idef iatk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BumbleHelm in slot helm from set QueenBee, score 400
+1)item name Firewall in slot body from set MechaTrojan, score 325
+2)item name StormTasset in slot feet from set TidalTitan, score 390
+3)item name Skullcrusher in slot mhand from set HellDrider, score 300
+4)item name EternalCodex in slot ohand from set GrimReaper, score 325
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+Item set attribute summary : cdef +20%, idef +45%, iatk +625%, ratk +875%, catk +650%, ihp +225%, chp +162.5%, Total army boost = 2602.5 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BloodStained_Gargantua in slot helm from set 2, score 68
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 92.5
+2)item name QueenHoneycomb in slot feet from set 2, score 120
+3)item name Dragon_sBite in slot mhand from set 2, score 100
+4)item name LunarScimitar in slot ohand from set 1, score 100
+5)item name AquaAnemone in slot trinket from set 2, score 80
+6)item name AquaAnemone in slot trinket from set 2, score 80
+7)item name AquaAnemone in slot trinket from set 2, score 80
+Item set attribute summary : cdef +8%, idef +5%, iatk +195%, ratk +130%, catk +245%, ihp +52.5%, chp +85%, Total army boost = 720.5 %
+
+
+=====================================================================================================================================================
+*Army composition : cavalry + infantry
+Looking for item combinations to maximize stats : chp cdef catk iatk idef ihp
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BeastHelm in slot helm from set Saberfang, score 350
+1)item name Firewall in slot body from set MechaTrojan, score 325
+2)item name StormTasset in slot feet from set TidalTitan, score 390
+3)item name KrakensAnchor in slot mhand from set TidalTitan, score 295.5
+4)item name DragonsFist in slot ohand from set Blackwing, score 210
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+Item set attribute summary : cdef +20%, idef +33%, iatk +900%, catk +660%, ihp +262.5%, chp +182.5%, Total army boost = 2058 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BloodStained_Gargantua in slot helm from set 2, score 68
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 67.5
+2)item name WinterStompers in slot feet from set 2, score 61
+3)item name Dragon_sBite in slot mhand from set 2, score 100
+4)item name FrostwingShield in slot ohand from set 2, score 64
+5)item name AquaAnemone in slot trinket from set 2, score 80
+6)item name AquaAnemone in slot trinket from set 2, score 80
+7)item name AquaAnemone in slot trinket from set 2, score 80
+Item set attribute summary : cdef +33%, idef +30%, iatk +195%, catk +220%, ihp +45%, chp +77.5%, Total army boost = 600.5 %
+
+
+=====================================================================================================================================================
+*Army composition : cavalry + ranged
+Looking for item combinations to maximize stats : chp cdef catk ratk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BumbleHelm in slot helm from set QueenBee, score 350
+1)item name HardenedCarapace in slot body from set QueenBee, score 260
+2)item name GargantuanBelt in slot feet from set Gargantua, score 267.5
+3)item name Skullcrusher in slot mhand from set HellDrider, score 275
+4)item name EternalCodex in slot ohand from set GrimReaper, score 325
+5)item name DragonsIris in slot trinket from set Blackwing, score 125
+6)item name DragonsIris in slot trinket from set Blackwing, score 125
+7)item name DragonsIris in slot trinket from set Blackwing, score 125
+Item set attribute summary : cdef +25%, ratk +775%, catk +810%, chp +242.5%, Total army boost = 1852.5 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BloodStained_Gargantua in slot helm from set 2, score 68
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 62.5
+2)item name QueenHoneycomb in slot feet from set 2, score 120
+3)item name FalconGale in slot mhand from set 1, score 75
+4)item name LunarScimitar in slot ohand from set 1, score 72.5
+5)item name IvoryChoker in slot trinket from set 2, score 40
+6)item name IvoryChoker in slot trinket from set 2, score 40
+7)item name IvoryChoker in slot trinket from set 2, score 40
+Item set attribute summary : cdef +8%, ratk +155%, catk +295%, chp +60%, Total army boost = 518 %
+
+
+=====================================================================================================================================================
+*Army composition : infantry + ranged
+Looking for item combinations to maximize stats : ihp idef iatk ratk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BumbleHelm in slot helm from set QueenBee, score 200
+1)item name HedonicCuiras in slot body from set BonApeti, score 325
+2)item name DragonsTalons in slot feet from set Blackwing, score 287.5
+3)item name DecadentSword in slot mhand from set BonApeti, score 275
+4)item name EternalCodex in slot ohand from set GrimReaper, score 175
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 287.5
+Item set attribute summary : idef +0%, iatk +725%, ratk +1100%, ihp +300%, Total army boost = 2125 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BerserkerTuskHelm in slot helm from set 1, score 35
+1)item name GrimmyPlate_GrimReaper in slot body from set 2, score 62.5
+2)item name CorruptedBoots in slot feet from set 2, score 60
+3)item name VenomStinger in slot mhand from set 1, score 75
+4)item name LunarScimitar in slot ohand from set 1, score 72.5
+5)item name LostIslandsRelic in slot trinket from set 1, score 65
+6)item name LostIslandsRelic in slot trinket from set 1, score 65
+7)item name LostIslandsRelic in slot trinket from set 1, score 65
+Item set attribute summary : idef +20%, iatk +255%, ratk +160%, ihp +65%, Total army boost = 500 %
+
+
+=====================================================================================================================================================
+*Army composition : cavalry
+Looking for item combinations to maximize stats : chp cdef catk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BumbleHelm in slot helm from set QueenBee, score 200
+1)item name Firewall in slot body from set MechaTrojan, score 187.5
+2)item name GargantuanBelt in slot feet from set Gargantua, score 267.5
+3)item name HornCudgel in slot mhand from set Gargantua, score 165
+4)item name DragonsFist in slot ohand from set Blackwing, score 160
+5)item name FearDrum in slot trinket from set Gargantua, score 92.5
+6)item name FearDrum in slot trinket from set Gargantua, score 92.5
+7)item name FearDrum in slot trinket from set Gargantua, score 92.5
+Item set attribute summary : cdef +30%, catk +985%, chp +242.5%, Total army boost = 1257.5 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BloodStained_Gargantua in slot helm from set 2, score 68
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 37.5
+2)item name QueenHoneycomb in slot feet from set 2, score 60
+3)item name FieryTomahawk in slot mhand from set 1, score 50
+4)item name FrostwingShield in slot ohand from set 2, score 32
+5)item name IvoryChoker in slot trinket from set 2, score 40
+6)item name IvoryChoker in slot trinket from set 2, score 40
+7)item name IvoryChoker in slot trinket from set 2, score 40
+Item set attribute summary : cdef +20%, catk +295%, chp +52.5%, Total army boost = 367.5 %
+
+
+=====================================================================================================================================================
+*Army composition : infantry
+Looking for item combinations to maximize stats : ihp idef iatk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name BeastHelm in slot helm from set Saberfang, score 187.5
+1)item name TerrorShield in slot body from set TerrorThorn, score 275
+2)item name StormTasset in slot feet from set TidalTitan, score 195
+3)item name DecadentSword in slot mhand from set BonApeti, score 150
+4)item name WinterMits in slot ohand from set SnowBeast, score 119.5
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+Item set attribute summary : idef +77%, iatk +975%, ihp +362.5%, Total army boost = 1414.5 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name BerserkerTuskHelm in slot helm from set 1, score 35
+1)item name GrimmyPlate_GrimReaper in slot body from set 2, score 62.5
+2)item name CorruptedBoots in slot feet from set 2, score 60
+3)item name Dragon_sBite in slot mhand from set 2, score 75
+4)item name TerrorBlade in slot ohand from set 2, score 57
+5)item name AquaAnemone in slot trinket from set 2, score 40
+6)item name AquaAnemone in slot trinket from set 2, score 40
+7)item name AquaAnemone in slot trinket from set 2, score 40
+Item set attribute summary : idef +32%, iatk +330%, ihp +47.5%, Total army boost = 409.5 %
+
+
+=====================================================================================================================================================
+*Army composition : ranged
+Looking for item combinations to maximize stats : rdef rhp ratk
+
+Best item set score you can get by heavy monster hunting + buying item packs:
+0)item name WyrmboneCoronet in slot helm from set JadeWyrm, score 210
+1)item name HardenedCarapace in slot body from set QueenBee, score 135
+2)item name DragonsTalons in slot feet from set Blackwing, score 187.5
+3)item name NectarOrb in slot mhand from set JadeWyrm, score 192.5
+4)item name EternalCodex in slot ohand from set GrimReaper, score 175
+5)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+6)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+7)item name AmbrosialCup in slot trinket from set BonApeti, score 162.5
+Item set attribute summary : rdef +30%, ratk +1110%, rhp +247.5%, Total army boost = 1387.5 %
+
+Best item set if you are a casual player that hardly spends money on the game :
+0)item name Deathgazer in slot helm from set 1, score 16
+1)item name ArmorOfTheAbyss_Helldrider in slot body from set 2, score 25
+2)item name QueenHoneycomb in slot feet from set 2, score 60
+3)item name Harbringer in slot mhand from set 2, score 50
+4)item name LunarScimitar in slot ohand from set 1, score 72.5
+5)item name LostIslandsRelic in slot trinket from set 1, score 35
+6)item name LostIslandsRelic in slot trinket from set 1, score 35
+7)item name LostIslandsRelic in slot trinket from set 1, score 35
+Item set attribute summary : rdef +26%, ratk +260%, rhp +42.5%, Total army boost = 328.5 %
+
+
