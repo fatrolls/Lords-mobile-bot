@@ -330,7 +330,7 @@ func FlipNumber( $Nr )
 	while($Nr > 0)
 		local $Digit = mod($Nr,10)
 		$ret = $ret * 10 + $Digit
-		$Nr = (int)( $Nr / 10 )
+		$Nr = Int( $Nr / 10 )
 	wend
 	return $ret
 endfunc
@@ -339,7 +339,7 @@ func CountDigits( $Nr )
 	Local $ret = 0
 	while($Nr > 0)
 		$ret = $ret + 1
-		$Nr = (int)( $Nr / 10 )
+		$Nr = Int( $Nr / 10 )
 	wend
 	return $ret
 endfunc
@@ -347,7 +347,7 @@ endfunc
 func GetNthDigit( $Nr, $Index )
 	$Index = $Index - 1
 	for $i = 0 to $Index step 1
-		$Nr = (int)( $Nr / 10 )
+		$Nr = int( $Nr / 10 )
 	next
 	local $Digit = mod($Nr,10)
 	return $Digit
@@ -440,8 +440,8 @@ func WaitScreenFinishLoading()
 	local $y2 = 12 + $aPos[1]
 	local $result = DllCall( $dllhandle, "NONE", "TakeScreenshot", "int", $x2 - $Radius, "int", $y2 - $Radius, "int", $x2 + $Radius, "int", $y2 + $Radius)
 	DllCall( $dllhandle, "NONE", "ApplyColorBitmask", "int", 0x00F0F0F0)
-	$result[ = "1|0|0"
-	while ( $result[0] == '1' and $AntiInfiniteLoop > 0 )
+	Local $result[3] = ["1","0","0"]
+	while $result[0] == '1' and $AntiInfiniteLoop > 0
 		Sleep( 100 )
 		$AntiInfiniteLoop = $AntiInfiniteLoop - 100
 		DllCall( $dllhandle, "NONE", "TakeScreenshot", "int", $x2 - $Radius, "int", $y2 - $Radius, "int", $x2 + $Radius, "int", $y2 + $Radius)
